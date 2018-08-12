@@ -1,2 +1,2 @@
 # webpackplatzi
-Curso de Webpack enPLATZI
+Curso de Webpack en PLATZI
