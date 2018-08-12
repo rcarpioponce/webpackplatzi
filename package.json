@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "\u001b2\u001b2\u001bqrcarpioponce",
-  "license": "MIT"
+  "author": "@rcarpioponce",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.16.5"
+  }
 }
